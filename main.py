@@ -16,3 +16,5 @@ if selectbox == 'Consultar':
 
 if selectbox == 'Deletar':
     delete.deletar()
+
+#Teste
